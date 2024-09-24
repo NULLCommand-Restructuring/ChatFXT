@@ -118,8 +118,8 @@ export default function Home() {
           <a href="/">ChatFXT</a>
         </div>
         <div className={styles.navlinks}>
-          <a href="https://github.com/NULLCommand-Restructuring/NULLAIServerAPI#readme" target="_blank">API Docs</a>
-          <a href="https://github.com/NULLCommand-Restructuring" target="_blank">GitHub</a>
+          <a href="https://github.com/NULLCommand1/NULLAIServerAPI#readme" target="_blank">API Docs</a>
+          <a href="https://github.com/NULLCommand1" target="_blank">GitHub</a>
         </div>
       </div>
       <main className={styles.main}>
