@@ -1,8 +1,8 @@
 # ChatFXT
 
-![ChatFXT Image](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/ChatFXT-DemoResources/demo.png)
+![ChatFXT Image](https://nullcommand1.github.io/NULLCommand1/ChatFXT-DemoResources/demo.png)
 
-ChatFXT is a simple yet powerful AI chatbot service 🤖, built with Next.js and integrated with the API from [NULLAIServerAPI](https://github.com/NULLCommand-Restructuring/NULLAIServerAPI). The chatbot's interface is developed based on a template whose origin is no longer credited. ChatFXT can quickly respond ⚡ to individual user-provided questions, with each response being completely independent and unaffected by data from previous questions. The application is designed as a visual demo tool for deploying the API from NULLAIServerAPI, providing a simple yet effective experience.
+ChatFXT is a simple yet powerful AI chatbot service 🤖, built with Next.js and integrated with the API from [NULLAIServerAPI](https://github.com/NULLCommand1/NULLAIServerAPI). The chatbot's interface is developed based on a template whose origin is no longer credited. ChatFXT can quickly respond ⚡ to individual user-provided questions, with each response being completely independent and unaffected by data from previous questions. The application is designed as a visual demo tool for deploying the API from NULLAIServerAPI, providing a simple yet effective experience.
 
 ## Usage
 
@@ -17,7 +17,7 @@ We welcome contributions from the community! If you would like to contribute to 
 2. **Clone Your Fork**: Clone the forked repository to your local machine using the following command:
 
  ```bash
-   git clone https://github.com/NULLCommand-Restructuring/ChatFXT.git
+   git clone https://github.com/NULLCommand1/ChatFXT.git
    cd ChatFXT
    ```
 
