@@ -12,7 +12,7 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [messages, setMessages] = useState([
     {
-      "message": "Hello, this is ChatFXT, the AI ​​chatbot service built and maintained by `OpenFXT`!",
+      "message": "Hello, I am ChatFXT, a virtual assistant deployed by `OpenFXT` using the `Gemini Advanced` core. Ask your question and I will try my best to answer it. I can access the internet, explain concepts, provide information on any topic, and much more. Let's start by asking your question! How can I assist you today?",
       "type": "apiMessage"
     }
   ]);
