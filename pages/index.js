@@ -61,7 +61,7 @@ export default function Home() {
     };
     
     try {
-      const response = await fetch("https://nullai-openfxt.vercel.app/api/v2/detail_response", {
+      const response = await fetch("https://ai-openfxt.serveo.net/api/v2/detail_response", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
